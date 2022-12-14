@@ -1,0 +1,4 @@
+id: 0 name: "Deep Learning" author: "Ian Goodfellow Yoshua Bengio" keywords: "ai deep learning"
+id: 1 name: "Deep Learning with Python" author: "Francois Chollet" keywords: "deep learning ai technology"
+id: 2 name: "Python Crash Course" author: "Eric Matthes" keywords: "python beginners programming"
+id: 3 name: "Learning Python, 5th Edition" author: "Mark Lutz" keywords: "programming python study"

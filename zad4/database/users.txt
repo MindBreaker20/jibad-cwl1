@@ -1,0 +1,6 @@
+login: "admin" password: "admin123"
+login: "reader1" password: "reader1a"
+login: "reader2" password: "reader2b"
+login: "reader3" password: "reader3c"
+login: "reader4" password: "reader4d"
+login: "reader5" password: "reader5e"
